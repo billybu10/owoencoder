@@ -24,7 +24,8 @@ Found python version while browsing GitHub and thought that it might a way to pl
 It's honestly a pretty cool language, in how it uses less popular programming paradigms and forces coder to think outside the box. Also the character look funny.
 
 ### Do I have to download and install Uiua to use this?
-If you use linux - in binaries folder there are linux binaries of both files. 
+If you use linux - in binaries folder there are linux binaries of both files.
+
 If you use anything else - yup, pretty much (unless you want to play with WSL)
 
 ### What file types are supported?
