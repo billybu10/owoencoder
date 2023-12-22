@@ -1,7 +1,7 @@
 # owoencoder
 
 `owoencoder` was originally a set of Python scripts that can convert any file into a series of `OwO` and `UwU` strings and convert it back [written by Glitchfur](https://github.com/glitchfur/owoencoder).
-This version is written in [Uiua](https://www.uiua.org).
+This version is written in [Uiua](https://github.com/uiua-lang/uiua).
 
 ## How to run it
 Install [uiua interpeter](https://www.uiua.org/install)
